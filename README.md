@@ -144,6 +144,7 @@ When attempting to message in a channel from multiple users on the same localhos
 ## Contact
 
 Cody Cole - Linkedin: https://linkedin.com/in/cody-cole/ 
+Justin Sohn - Linkedin: https://www.linkedin.com/in/sohnjustin/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
